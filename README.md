@@ -1,0 +1,6 @@
+[README.md](https://github.com/user-attachments/files/29933175/README.md)
+# Smart Fall Detection and Emergency Alerts for Elderly Care
+
+Falls are one of the major health risks faced by elderly people and can lead to serious injuries if immediate assistance is not available. This project presents a smart IoT-based solution that detects falls in real time and sends instant emergency alerts to caregivers or family members. The system is built using an **ESP32** microcontroller and an **MPU6050** accelerometer and gyroscope sensor to continuously monitor body movements. When an abnormal fall is detected, the ESP32 processes the sensor data, activates a buzzer and LED for local indication, and sends an emergency notification through the **Blynk IoT** platform over Wi-Fi.
+
+The main objective of this project is to provide a simple, reliable, and cost-effective elderly monitoring system that improves safety and reduces emergency response time. Developed using the Arduino IDE and Embedded C/C++, the system is easy to implement and suitable for homes, hospitals, and elderly care centers. This project demonstrates how IoT and embedded systems can be used to create practical healthcare solutions that support independent living and ensure timely assistance during emergencies.
